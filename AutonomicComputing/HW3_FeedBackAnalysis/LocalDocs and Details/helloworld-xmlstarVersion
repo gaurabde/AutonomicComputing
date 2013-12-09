@@ -1,0 +1,20 @@
+#!/bin/bash
+
+declare -i countold
+countold=0
+declare -i count
+count=1
+
+bash testscript &
+
+echo "helloworld"
+
+while [ $count -lt 11 ]; do       
+    xmlstarlet ed -L --update "/allocations/pool/maxMaps" -v $count fair-scheduler.xml
+    countold=$count
+    count=$count+1
+    echo $count
+    sleep 30s           
+done
+xmlstarlet ed -L --update "/allocations/pool/maxMaps" -v 1 fair-scheduler.xml
+echo "Hello World!"

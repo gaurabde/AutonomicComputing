@@ -1,0 +1,331 @@
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000001
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000000
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000002
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000003
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000004
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000005
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000006
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000007
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000008
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000009
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000010
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000011
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000012
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000013
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000014
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000015
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000016
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000017
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000018
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000019
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000020
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000021
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000022
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000023
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000024
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000025
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000026
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000027
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000028
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000029
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000030
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000031
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000032
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000033
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000034
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000035
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000036
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000037
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000038
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000039
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000040
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000041
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000042
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000043
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000044
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000045
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000046
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000047
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000048
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000049
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000050
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000051
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000052
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000053
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000054
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000055
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000056
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000057
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000058
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000059
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000060
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000061
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000062
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000063
+attempt_201310190031_0008_m_000001_0--task_201310190031_0008_m_000064
+4
+The XML File was updated with maxMaps: 4
+Initial change impact analysis
+============================
+Start Time: 1382185025220
+02:17:16:402-1000 == Mapper %completed: 0.015384615 efficiency (%): 13.758375 timelappsed: 11182.0 current: 1382185036402
+02:17:17:404-1000 == Mapper %completed: 0.015384615 efficiency (%): 12.626901 timelappsed: 12184.0 current: 1382185037404
+02:17:18:406-1000 == Mapper %completed: 0.015384615 efficiency (%): 11.667386 timelappsed: 13186.0 current: 1382185038406
+02:17:19:408-1000 == Mapper %completed: 0.015384615 efficiency (%): 10.843399 timelappsed: 14188.0 current: 1382185039408
+02:17:20:411-1000 == Mapper %completed: 0.015384615 efficiency (%): 10.127455 timelappsed: 15191.0 current: 1382185040411
+02:17:21:413-1000 == Mapper %completed: 0.015384615 efficiency (%): 9.500781 timelappsed: 16193.0 current: 1382185041413
+02:17:22:415-1000 == Mapper %completed: 0.015384615 efficiency (%): 8.947145 timelappsed: 17195.0 current: 1382185042415
+02:17:23:416-1000 == Mapper %completed: 0.015384615 efficiency (%): 8.454944 timelappsed: 18196.0 current: 1382185043416
+02:17:24:419-1000 == Mapper %completed: 0.03076923 efficiency (%): 16.026476 timelappsed: 19199.0 current: 1382185044419
+02:17:25:420-1000 == Mapper %completed: 0.03076923 efficiency (%): 15.232292 timelappsed: 20200.0 current: 1382185045420
+===============================End of Initial impact analysis
+
+Starting Controller Design with limiting efficieny to: 40 % 
+==================================
+ 
+5
+The XML File was updated with maxMaps: 5
+02:17:26:425-1000 ==Max Mapper updated to: 5
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:17:26:425-1000 ==Mapper %completed: 0.03076923 efficiency (%): 14.510366 timelappsed: 21205.0 current: 1382185046425
+..02:17:27:426-1000 ==Mapper %completed: 0.03076923 efficiency (%): 13.856269 timelappsed: 22206.0 current: 1382185047426
+..02:17:28:429-1000 ==Mapper %completed: 0.03076923 efficiency (%): 13.257457 timelappsed: 23209.0 current: 1382185048429
+..02:17:29:431-1000 ==Mapper %completed: 0.03076923 efficiency (%): 12.708781 timelappsed: 24211.0 current: 1382185049431
+..02:17:30:433-1000 ==Mapper %completed: 0.03076923 efficiency (%): 12.203717 timelappsed: 25213.0 current: 1382185050433
+..02:17:31:434-1000 ==Mapper %completed: 0.03076923 efficiency (%): 11.737709 timelappsed: 26214.0 current: 1382185051434
+..02:17:32:436-1000 ==Mapper %completed: 0.046153847 efficiency (%): 16.958351 timelappsed: 27216.0 current: 1382185052436
+..02:17:33:438-1000 ==Mapper %completed: 0.046153847 efficiency (%): 16.356173 timelappsed: 28218.0 current: 1382185053438
+..02:17:34:440-1000 ==Mapper %completed: 0.046153847 efficiency (%): 15.795294 timelappsed: 29220.0 current: 1382185054440
+..02:17:35:442-1000 ==Mapper %completed: 0.046153847 efficiency (%): 15.271606 timelappsed: 30222.0 current: 1382185055442
+================= End Wait
+02:17:36:443-1000 ==Mapper %completed: 0.046153847 efficiency (%): 15.271606 timelappsed: 30222.0 current: 1382185055442
+6
+The XML File was updated with maxMaps: 6
+02:17:37:449-1000 ==Max Mapper updated to: 6
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:17:37:449-1000 ==Mapper %completed: 0.046153847 efficiency (%): 14.320596 timelappsed: 32229.0 current: 1382185057449
+..02:17:38:450-1000 ==Mapper %completed: 0.046153847 efficiency (%): 13.889211 timelappsed: 33230.0 current: 1382185058450
+..02:17:39:453-1000 ==Mapper %completed: 0.046153847 efficiency (%): 13.482267 timelappsed: 34233.0 current: 1382185059453
+..02:17:40:454-1000 ==Mapper %completed: 0.046153847 efficiency (%): 13.0992365 timelappsed: 35234.0 current: 1382185060454
+..02:17:41:456-1000 ==Mapper %completed: 0.06153846 efficiency (%): 16.982687 timelappsed: 36236.0 current: 1382185061456
+..02:17:42:458-1000 ==Mapper %completed: 0.06153846 efficiency (%): 16.525717 timelappsed: 37238.0 current: 1382185062458
+..02:17:43:470-1000 ==Mapper %completed: 0.06153846 efficiency (%): 16.088488 timelappsed: 38250.0 current: 1382185063470
+..02:17:44:471-1000 ==Mapper %completed: 0.06153846 efficiency (%): 15.678189 timelappsed: 39251.0 current: 1382185064471
+..02:17:45:478-1000 ==Mapper %completed: 0.06153846 efficiency (%): 15.28602 timelappsed: 40258.0 current: 1382185065478
+..02:17:46:480-1000 ==Mapper %completed: 0.06153846 efficiency (%): 14.914799 timelappsed: 41260.0 current: 1382185066480
+================= End Wait
+02:17:47:482-1000 ==Mapper %completed: 0.06153846 efficiency (%): 14.914799 timelappsed: 41260.0 current: 1382185066480
+7
+The XML File was updated with maxMaps: 7
+02:17:48:486-1000 ==Max Mapper updated to: 7
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:17:48:486-1000 ==Mapper %completed: 0.06153846 efficiency (%): 14.223284 timelappsed: 43266.0 current: 1382185068486
+..02:17:49:487-1000 ==Mapper %completed: 0.06153846 efficiency (%): 13.901656 timelappsed: 44267.0 current: 1382185069487
+..02:17:50:489-1000 ==Mapper %completed: 0.07692308 efficiency (%): 16.992441 timelappsed: 45269.0 current: 1382185070489
+..02:17:51:491-1000 ==Mapper %completed: 0.07692308 efficiency (%): 16.624468 timelappsed: 46271.0 current: 1382185071491
+..02:17:52:493-1000 ==Mapper %completed: 0.07692308 efficiency (%): 16.272097 timelappsed: 47273.0 current: 1382185072493
+..02:17:53:495-1000 ==Mapper %completed: 0.07692308 efficiency (%): 15.934351 timelappsed: 48275.0 current: 1382185073495
+..02:17:54:497-1000 ==Mapper %completed: 0.07692308 efficiency (%): 15.610342 timelappsed: 49277.0 current: 1382185074497
+..02:17:55:498-1000 ==Mapper %completed: 0.07692308 efficiency (%): 15.299551 timelappsed: 50278.0 current: 1382185075498
+..02:17:56:501-1000 ==Mapper %completed: 0.07692308 efficiency (%): 15.000309 timelappsed: 51281.0 current: 1382185076501
+..02:17:57:502-1000 ==Mapper %completed: 0.07692308 efficiency (%): 14.71311 timelappsed: 52282.0 current: 1382185077502
+================= End Wait
+02:17:58:504-1000 ==Mapper %completed: 0.07692308 efficiency (%): 14.71311 timelappsed: 52282.0 current: 1382185077502
+8
+The XML File was updated with maxMaps: 8
+02:17:59:512-1000 ==Max Mapper updated to: 8
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:17:59:512-1000 ==Mapper %completed: 0.092307694 efficiency (%): 17.00208 timelappsed: 54292.0 current: 1382185079512
+..02:18:00:514-1000 ==Mapper %completed: 0.092307694 efficiency (%): 16.69398 timelappsed: 55294.0 current: 1382185080514
+..02:18:01:516-1000 ==Mapper %completed: 0.092307694 efficiency (%): 16.396849 timelappsed: 56296.0 current: 1382185081516
+..02:18:02:517-1000 ==Mapper %completed: 0.092307694 efficiency (%): 16.11039 timelappsed: 57297.0 current: 1382185082517
+..02:18:03:520-1000 ==Mapper %completed: 0.092307694 efficiency (%): 15.833224 timelappsed: 58300.0 current: 1382185083520
+..02:18:04:521-1000 ==Mapper %completed: 0.092307694 efficiency (%): 15.565959 timelappsed: 59301.0 current: 1382185084521
+..02:18:05:523-1000 ==Mapper %completed: 0.092307694 efficiency (%): 15.307314 timelappsed: 60303.0 current: 1382185085523
+..02:18:06:525-1000 ==Mapper %completed: 0.092307694 efficiency (%): 15.057123 timelappsed: 61305.0 current: 1382185086525
+..02:18:07:527-1000 ==Mapper %completed: 0.092307694 efficiency (%): 14.81498 timelappsed: 62307.0 current: 1382185087527
+..02:18:08:528-1000 ==Mapper %completed: 0.092307694 efficiency (%): 14.580731 timelappsed: 63308.0 current: 1382185088528
+================= End Wait
+02:18:09:549-1000 ==Mapper %completed: 0.092307694 efficiency (%): 14.580731 timelappsed: 63308.0 current: 1382185088528
+02:18:10:552-1000 ==Mapper %completed: 0.153457 efficiency (%): 23.489157 timelappsed: 65331.0 current: 1382185090551
+02:18:11:553-1000 ==Mapper %completed: 0.17602387 efficiency (%): 26.536396 timelappsed: 66333.0 current: 1382185091553
+02:18:12:555-1000 ==Mapper %completed: 0.19174023 efficiency (%): 28.475567 timelappsed: 67335.0 current: 1382185092555
+02:18:13:557-1000 ==Mapper %completed: 0.19174023 efficiency (%): 28.05804 timelappsed: 68337.0 current: 1382185093557
+02:18:14:559-1000 ==Mapper %completed: 0.19994259 efficiency (%): 28.835516 timelappsed: 69339.0 current: 1382185094559
+02:18:15:561-1000 ==Mapper %completed: 0.19999999 efficiency (%): 28.432919 timelappsed: 70341.0 current: 1382185095561
+02:18:16:563-1000 ==Mapper %completed: 0.19999999 efficiency (%): 28.033583 timelappsed: 71343.0 current: 1382185096563
+02:18:17:564-1000 ==Mapper %completed: 0.2153846 efficiency (%): 29.772282 timelappsed: 72344.0 current: 1382185097564
+02:18:18:567-1000 ==Mapper %completed: 0.2153846 efficiency (%): 29.365156 timelappsed: 73347.0 current: 1382185098567
+02:18:19:568-1000 ==Mapper %completed: 0.2153846 efficiency (%): 28.969791 timelappsed: 74348.0 current: 1382185099568
+02:18:20:570-1000 ==Mapper %completed: 0.2153846 efficiency (%): 28.584553 timelappsed: 75350.0 current: 1382185100570
+02:18:21:572-1000 ==Mapper %completed: 0.2153846 efficiency (%): 28.209425 timelappsed: 76352.0 current: 1382185101572
+02:18:22:574-1000 ==Mapper %completed: 0.2153846 efficiency (%): 27.844017 timelappsed: 77354.0 current: 1382185102574
+02:18:23:576-1000 ==Mapper %completed: 0.2153846 efficiency (%): 27.487951 timelappsed: 78356.0 current: 1382185103576
+02:18:24:577-1000 ==Mapper %completed: 0.2484798 efficiency (%): 31.311642 timelappsed: 79357.0 current: 1382185104577
+02:18:25:579-1000 ==Mapper %completed: 0.2484798 efficiency (%): 30.921217 timelappsed: 80359.0 current: 1382185105579
+02:18:26:581-1000 ==Mapper %completed: 0.28795406 efficiency (%): 35.39215 timelappsed: 81361.0 current: 1382185106581
+02:18:27:583-1000 ==Mapper %completed: 0.3047533 efficiency (%): 37.00124 timelappsed: 82363.0 current: 1382185107583
+02:18:28:585-1000 ==Mapper %completed: 0.3047533 efficiency (%): 36.556503 timelappsed: 83365.0 current: 1382185108585
+02:18:29:587-1000 ==Mapper %completed: 0.31143287 efficiency (%): 36.914062 timelappsed: 84367.0 current: 1382185109587
+02:18:30:588-1000 ==Mapper %completed: 0.31694534 efficiency (%): 37.12695 timelappsed: 85368.0 current: 1382185110588
+02:18:31:590-1000 ==Mapper %completed: 0.31694534 efficiency (%): 36.69623 timelappsed: 86370.0 current: 1382185111590
+02:18:32:592-1000 ==Mapper %completed: 0.31694534 efficiency (%): 36.27539 timelappsed: 87372.0 current: 1382185112592
+02:18:33:594-1000 ==Mapper %completed: 0.3230769 efficiency (%): 36.55791 timelappsed: 88374.0 current: 1382185113594
+02:18:34:596-1000 ==Mapper %completed: 0.3230769 efficiency (%): 36.14806 timelappsed: 89376.0 current: 1382185114596
+02:18:35:598-1000 ==Mapper %completed: 0.33846152 efficiency (%): 37.449547 timelappsed: 90378.0 current: 1382185115598
+02:18:36:600-1000 ==Mapper %completed: 0.33846152 efficiency (%): 37.038906 timelappsed: 91380.0 current: 1382185116600
+02:18:37:602-1000 ==Mapper %completed: 0.33846152 efficiency (%): 36.63717 timelappsed: 92382.0 current: 1382185117602
+02:18:38:603-1000 ==Mapper %completed: 0.35384613 efficiency (%): 37.891922 timelappsed: 93383.0 current: 1382185118603
+02:18:39:605-1000 ==Mapper %completed: 0.3767648 efficiency (%): 39.91787 timelappsed: 94385.0 current: 1382185119605
+02:18:40:607-1000 ==Mapper %completed: 0.3767648 efficiency (%): 39.49855 timelappsed: 95387.0 current: 1382185120607
+02:18:41:609-1000 ==Mapper %completed: 0.39209202 efficiency (%): 40.67809 timelappsed: 96389.0 current: 1382185121609
+02:18:42:611-1000 ==Mapper %completed: 0.39994258 efficiency (%): 41.06566 timelappsed: 97391.0 current: 1382185122611
+02:18:43:622-1000 ==Mapper %completed: 0.39994258 efficiency (%): 40.643745 timelappsed: 98402.0 current: 1382185123622
+02:18:44:624-1000 ==Mapper %completed: 0.4153846 efficiency (%): 41.78751 timelappsed: 99404.0 current: 1382185124624
+7
+The XML File was updated with maxMaps: 7
+02:18:45:645-1000 ==Max Mapper updated to: 7
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:18:45:646-1000 ==Mapper %completed: 0.43664527 efficiency (%): 43.479305 timelappsed: 100426.0 current: 1382185125646
+..02:18:46:651-1000 ==Mapper %completed: 0.43664527 efficiency (%): 43.048504 timelappsed: 101431.0 current: 1382185126651
+..02:18:47:654-1000 ==Mapper %completed: 0.43664527 efficiency (%): 42.626984 timelappsed: 102434.0 current: 1382185127654
+..02:18:48:655-1000 ==Mapper %completed: 0.43664527 efficiency (%): 42.21446 timelappsed: 103435.0 current: 1382185128655
+..02:18:49:657-1000 ==Mapper %completed: 0.4454863 efficiency (%): 42.655983 timelappsed: 104437.0 current: 1382185129657
+..02:18:50:659-1000 ==Mapper %completed: 0.4454863 efficiency (%): 42.250618 timelappsed: 105439.0 current: 1382185130659
+..02:18:51:661-1000 ==Mapper %completed: 0.46153843 efficiency (%): 43.360966 timelappsed: 106441.0 current: 1382185131661
+..02:18:52:662-1000 ==Mapper %completed: 0.46153843 efficiency (%): 42.956985 timelappsed: 107442.0 current: 1382185132662
+..02:18:53:665-1000 ==Mapper %completed: 0.49097028 efficiency (%): 45.27367 timelappsed: 108445.0 current: 1382185133665
+..02:18:54:666-1000 ==Mapper %completed: 0.49097028 efficiency (%): 44.85959 timelappsed: 109446.0 current: 1382185134666
+
+02:18:55:668-1000 ==Mapper %completed: 0.49097028 efficiency (%): 44.85959 timelappsed: 109446.0 current: 1382185134666
+6
+The XML File was updated with maxMaps: 6
+02:18:56:672-1000 ==Max Mapper updated to: 6
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:18:56:673-1000 ==Mapper %completed: 0.5138963 efficiency (%): 46.108788 timelappsed: 111453.0 current: 1382185136673
+..02:18:57:674-1000 ==Mapper %completed: 0.5138963 efficiency (%): 45.698357 timelappsed: 112454.0 current: 1382185137674
+..02:18:58:676-1000 ==Mapper %completed: 0.5230769 efficiency (%): 46.103943 timelappsed: 113456.0 current: 1382185138676
+..02:18:59:677-1000 ==Mapper %completed: 0.5230769 efficiency (%): 45.700737 timelappsed: 114457.0 current: 1382185139677
+..02:19:00:680-1000 ==Mapper %completed: 0.5230769 efficiency (%): 45.30373 timelappsed: 115460.0 current: 1382185140680
+..02:19:01:681-1000 ==Mapper %completed: 0.5230769 efficiency (%): 44.91434 timelappsed: 116461.0 current: 1382185141681
+..02:19:02:683-1000 ==Mapper %completed: 0.5538461 efficiency (%): 47.15069 timelappsed: 117463.0 current: 1382185142683
+..02:19:03:685-1000 ==Mapper %completed: 0.5538461 efficiency (%): 46.75188 timelappsed: 118465.0 current: 1382185143685
+..02:19:04:687-1000 ==Mapper %completed: 0.57375735 efficiency (%): 48.026432 timelappsed: 119467.0 current: 1382185144687
+..02:19:05:688-1000 ==Mapper %completed: 0.57375735 efficiency (%): 47.62737 timelappsed: 120468.0 current: 1382185145688
+
+02:19:06:690-1000 ==Mapper %completed: 0.57375735 efficiency (%): 47.62737 timelappsed: 120468.0 current: 1382185145688
+5
+The XML File was updated with maxMaps: 5
+02:19:07:695-1000 ==Max Mapper updated to: 5
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:19:07:695-1000 ==Mapper %completed: 0.5972006 efficiency (%): 48.761017 timelappsed: 122475.0 current: 1382185147695
+..02:19:08:696-1000 ==Mapper %completed: 0.5972006 efficiency (%): 48.36572 timelappsed: 123476.0 current: 1382185148696
+..02:19:09:698-1000 ==Mapper %completed: 0.6307692 efficiency (%): 50.67315 timelappsed: 124478.0 current: 1382185149698
+..02:19:10:700-1000 ==Mapper %completed: 0.6307692 efficiency (%): 50.268505 timelappsed: 125480.0 current: 1382185150700
+..02:19:11:702-1000 ==Mapper %completed: 0.6615384 efficiency (%): 52.30297 timelappsed: 126482.0 current: 1382185151702
+..02:19:12:703-1000 ==Mapper %completed: 0.6615384 efficiency (%): 51.892284 timelappsed: 127483.0 current: 1382185152703
+..02:19:13:706-1000 ==Mapper %completed: 0.67692304 efficiency (%): 52.684578 timelappsed: 128486.0 current: 1382185153706
+..02:19:14:707-1000 ==Mapper %completed: 0.67692304 efficiency (%): 52.277298 timelappsed: 129487.0 current: 1382185154707
+..02:19:15:709-1000 ==Mapper %completed: 0.67692304 efficiency (%): 51.87587 timelappsed: 130489.0 current: 1382185155709
+..02:19:16:711-1000 ==Mapper %completed: 0.67692304 efficiency (%): 51.48056 timelappsed: 131491.0 current: 1382185156711
+
+02:19:17:713-1000 ==Mapper %completed: 0.67692304 efficiency (%): 51.48056 timelappsed: 131491.0 current: 1382185156711
+4
+The XML File was updated with maxMaps: 4
+02:19:18:717-1000 ==Max Mapper updated to: 4
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:19:18:717-1000 ==Mapper %completed: 0.7692307 efficiency (%): 57.621574 timelappsed: 133497.0 current: 1382185158717
+..02:19:19:718-1000 ==Mapper %completed: 0.7692307 efficiency (%): 57.192722 timelappsed: 134498.0 current: 1382185159718
+..02:19:20:721-1000 ==Mapper %completed: 0.7692307 efficiency (%): 56.76938 timelappsed: 135501.0 current: 1382185160721
+..02:19:21:724-1000 ==Mapper %completed: 0.7692307 efficiency (%): 56.352245 timelappsed: 136504.0 current: 1382185161724
+..02:19:22:727-1000 ==Mapper %completed: 0.78461534 efficiency (%): 57.060028 timelappsed: 137507.0 current: 1382185162727
+..02:19:23:728-1000 ==Mapper %completed: 0.78461534 efficiency (%): 56.647655 timelappsed: 138508.0 current: 1382185163728
+..02:19:24:730-1000 ==Mapper %completed: 0.8615384 efficiency (%): 61.7546 timelappsed: 139510.0 current: 1382185164730
+..02:19:25:731-1000 ==Mapper %completed: 0.8615384 efficiency (%): 61.31466 timelappsed: 140511.0 current: 1382185165731
+..02:19:26:734-1000 ==Mapper %completed: 0.8615384 efficiency (%): 60.880085 timelappsed: 141514.0 current: 1382185166734
+..02:19:27:735-1000 ==Mapper %completed: 0.8615384 efficiency (%): 60.452473 timelappsed: 142515.0 current: 1382185167735
+
+02:19:28:737-1000 ==Mapper %completed: 0.8615384 efficiency (%): 60.452473 timelappsed: 142515.0 current: 1382185167735
+3
+The XML File was updated with maxMaps: 3
+02:19:29:741-1000 ==Max Mapper updated to: 3
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:19:29:741-1000 ==Mapper %completed: 0.90769225 efficiency (%): 62.806942 timelappsed: 144521.0 current: 1382185169741
+..02:19:30:743-1000 ==Mapper %completed: 0.90769225 efficiency (%): 62.37449 timelappsed: 145523.0 current: 1382185170743
+..02:19:31:745-1000 ==Mapper %completed: 0.9538461 efficiency (%): 65.09784 timelappsed: 146525.0 current: 1382185171745
+..02:19:32:746-1000 ==Mapper %completed: 0.9538461 efficiency (%): 64.656136 timelappsed: 147526.0 current: 1382185172746
+..02:19:33:749-1000 ==Mapper %completed: 0.9538461 efficiency (%): 64.21952 timelappsed: 148529.0 current: 1382185173749
+..02:19:34:751-1000 ==Mapper %completed: 0.9538461 efficiency (%): 63.78919 timelappsed: 149531.0 current: 1382185174751
+..02:19:35:753-1000 ==Mapper %completed: 0.9846153 efficiency (%): 65.4086 timelappsed: 150533.0 current: 1382185175753
+..02:19:36:755-1000 ==Mapper %completed: 0.9846153 efficiency (%): 64.9761 timelappsed: 151535.0 current: 1382185176755
+..02:19:37:757-1000 ==Mapper %completed: 0.9846153 efficiency (%): 64.54928 timelappsed: 152537.0 current: 1382185177757
+..02:19:38:758-1000 ==Mapper %completed: 0.9846153 efficiency (%): 64.12844 timelappsed: 153538.0 current: 1382185178758
+
+02:19:39:760-1000 ==Mapper %completed: 0.9846153 efficiency (%): 64.12844 timelappsed: 153538.0 current: 1382185178758
+2
+The XML File was updated with maxMaps: 2
+02:19:40:765-1000 ==Max Mapper updated to: 2
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:19:40:765-1000 ==Mapper %completed: 1.0 efficiency (%): 64.29008 timelappsed: 155545.0 current: 1382185180765
+..02:19:41:766-1000 ==Mapper %completed: 1.0 efficiency (%): 63.878986 timelappsed: 156546.0 current: 1382185181766
+..02:19:42:769-1000 ==Mapper %completed: 1.0 efficiency (%): 63.472317 timelappsed: 157549.0 current: 1382185182769
+..02:19:43:779-1000 ==Mapper %completed: 1.0 efficiency (%): 63.068005 timelappsed: 158559.0 current: 1382185183779
+..02:19:44:782-1000 ==Mapper %completed: 1.0 efficiency (%): 62.671566 timelappsed: 159562.0 current: 1382185184782
+..02:19:45:806-1000 ==Mapper %completed: 1.0 efficiency (%): 62.27193 timelappsed: 160586.0 current: 1382185185806
+..02:19:46:817-1000 ==Mapper %completed: 1.0 efficiency (%): 61.88234 timelappsed: 161597.0 current: 1382185186817
+..02:19:47:819-1000 ==Mapper %completed: 1.0 efficiency (%): 61.50099 timelappsed: 162599.0 current: 1382185187819
+..02:19:48:821-1000 ==Mapper %completed: 1.0 efficiency (%): 61.12432 timelappsed: 163601.0 current: 1382185188821
+..02:19:49:822-1000 ==Mapper %completed: 1.0 efficiency (%): 60.752605 timelappsed: 164602.0 current: 1382185189822
+
+02:19:50:824-1000 ==Mapper %completed: 1.0 efficiency (%): 60.752605 timelappsed: 164602.0 current: 1382185189822
+1
+The XML File was updated with maxMaps: 1
+02:19:51:829-1000 ==Max Mapper updated to: 1
+ waiting for effect of MaxMapper change.WaitPeriod Status:
+ ================
+
+..02:19:51:829-1000 ==Mapper %completed: 1.0 efficiency (%): 60.020767 timelappsed: 166609.0 current: 1382185191829
+..02:19:52:831-1000 ==Mapper %completed: 1.0 efficiency (%): 59.661957 timelappsed: 167611.0 current: 1382185192831
+..02:19:53:834-1000 ==Mapper %completed: 1.0 efficiency (%): 59.307056 timelappsed: 168614.0 current: 1382185193834
+..02:19:54:835-1000 ==Mapper %completed: 1.0 efficiency (%): 58.957047 timelappsed: 169615.0 current: 1382185194835
+..02:19:55:838-1000 ==Mapper %completed: 1.0 efficiency (%): 58.610462 timelappsed: 170618.0 current: 1382185195838
+..02:19:56:839-1000 ==Mapper %completed: 1.0 efficiency (%): 58.268604 timelappsed: 171619.0 current: 1382185196839
+..02:19:57:841-1000 ==Mapper %completed: 1.0 efficiency (%): 57.930378 timelappsed: 172621.0 current: 1382185197841
+..02:19:58:855-1000 ==Mapper %completed: 1.0 efficiency (%): 57.592075 timelappsed: 173635.0 current: 1382185198855
+..02:19:59:857-1000 ==Mapper %completed: 1.0 efficiency (%): 57.261635 timelappsed: 174637.0 current: 1382185199857
+..02:20:00:858-1000 ==Mapper %completed: 1.0 efficiency (%): 56.935287 timelappsed: 175638.0 current: 1382185200858
+
+02:20:01:860-1000 ==Mapper %completed: 1.0 efficiency (%): 56.935287 timelappsed: 175638.0 current: 1382185200858
+02:20:02:863-1000 ==Mapper %completed: 1.0 efficiency (%): 56.29268 timelappsed: 177643.0 current: 1382185202863
+02:20:03:864-1000 ==Mapper %completed: 1.0 efficiency (%): 55.977253 timelappsed: 178644.0 current: 1382185203864
+02:20:04:866-1000 ==Mapper %completed: 1.0 efficiency (%): 55.66503 timelappsed: 179646.0 current: 1382185204866
+02:20:05:868-1000 ==Mapper %completed: 1.0 efficiency (%): 55.356274 timelappsed: 180648.0 current: 1382185205868
+02:20:06:870-1000 ==Mapper %completed: 1.0 efficiency (%): 55.050922 timelappsed: 181650.0 current: 1382185206870
+02:20:07:872-1000 ==Mapper %completed: 1.0 efficiency (%): 54.74892 timelappsed: 182652.0 current: 1382185207872
+02:20:08:873-1000 ==Mapper %completed: 1.0 efficiency (%): 54.450512 timelappsed: 183653.0 current: 1382185208873
+1
+The XML File was updated with maxMaps: 1
+=================================================================================
+MaxMaps value restored to : 1
+=================================================================================
+

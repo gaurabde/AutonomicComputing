@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "testscript"
+
+bin/hadoop jar hadoop-examples-1.0.3.jar grep input output1 '.*property.*'

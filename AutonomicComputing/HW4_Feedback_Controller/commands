@@ -1,0 +1,6 @@
+../local/hadoop/bin/hadoop jar TrackMapReduceJob.jar usr.code.TrackMapReduceJob job_201310190031_0006 40 4
+
+./local/hadoop/bin/hadoop jar WordCountPair.jar usr.code.WordCountPair /usr/HDFS /usr/ouput23
+
+y(k)=[13.7,14.9,15.2,16.02,17.0,23.4,30.92,41.7,44.85,47.60,51.48,56.35,64.29,64.66]
+u(k)=[.015,.030,.046,.061,.076,.153,.248,.415,.490,.573,.676,.769,.953,1.0]

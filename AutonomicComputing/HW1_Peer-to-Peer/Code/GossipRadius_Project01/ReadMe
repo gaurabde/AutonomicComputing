@@ -1,0 +1,27 @@
+Gaurab Dey
+UFID: 78029140
+gaurabde@ufl.edu
+===============================
+
+ALL LOCATION DETAILS
+---------------------------
+Source Code Location: /GuarabDey_hw1/src
+DOT File location:/GuarabDey_hw1/src/DotFiles
+Distance and Neighbor Detail files: /GuarabDey_hw1/src/NeighborListFiles
+
+Image Files are generated in Location: /GuarabDey_hw1/ 
+
+=======================================================
+
+HOW TO COMPILE AND RUN CODE
+-----------------------------
+Language used: Scala
+
+Install Scala on Linux system: sudo apt-get install scala
+Install graphviz: (default avaiable in Ubuntu)
+
+complice code: scalac hw1.scala
+Run: scala hw1 1 100 5 1 5
+
+
+

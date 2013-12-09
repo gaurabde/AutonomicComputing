@@ -1,0 +1,15 @@
+2013-10-16 19:59:41,354 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2013-10-16 22:38:16,058 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2013-10-16 22:38:16,453 WARN org.apache.hadoop.conf.Configuration: session.id is deprecated. Instead, use dfs.metrics.session-id
+2013-10-16 22:38:16,456 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=JobTracker, sessionId=
+2013-10-16 22:38:16,559 WARN org.apache.hadoop.mapreduce.JobSubmitter: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2013-10-16 22:38:16,565 WARN org.apache.hadoop.mapreduce.JobSubmitter: No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2013-10-16 22:38:16,585 INFO org.apache.hadoop.mapreduce.JobSubmitter: Cleaning up the staging area file:/tmp/hadoop-cloudera/mapred/staging/cloudera1547379309/.staging/job_local1547379309_0001
+2013-10-16 22:38:16,587 ERROR org.apache.hadoop.security.UserGroupInformation: PriviledgedActionException as:cloudera (auth:SIMPLE) cause:org.apache.hadoop.mapreduce.lib.input.InvalidInputException: Input path does not exist: file:/usr/HDFS
+2013-10-16 23:54:00,012 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2013-10-16 23:54:00,333 WARN org.apache.hadoop.conf.Configuration: session.id is deprecated. Instead, use dfs.metrics.session-id
+2013-10-16 23:54:00,335 INFO org.apache.hadoop.metrics.jvm.JvmMetrics: Initializing JVM Metrics with processName=JobTracker, sessionId=
+2013-10-16 23:54:00,433 WARN org.apache.hadoop.mapreduce.JobSubmitter: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2013-10-16 23:54:00,446 WARN org.apache.hadoop.mapreduce.JobSubmitter: No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2013-10-16 23:54:03,888 INFO org.apache.hadoop.mapreduce.JobSubmitter: Cleaning up the staging area file:/tmp/hadoop-cloudera/mapred/staging/cloudera1684683966/.staging/job_local1684683966_0001
+2013-10-16 23:54:03,891 ERROR org.apache.hadoop.security.UserGroupInformation: PriviledgedActionException as:cloudera (auth:SIMPLE) cause:org.apache.hadoop.mapreduce.lib.input.InvalidInputException: Input path does not exist: file:/home/cloudera/Downloads/InputData

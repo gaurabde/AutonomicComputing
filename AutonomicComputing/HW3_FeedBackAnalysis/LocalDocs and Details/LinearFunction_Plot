@@ -1,0 +1,27 @@
+#a and b both variable are extracted based on output and input file size scale
+
+#output File Size
+a=6
+
+#input File Size 
+b=50
+
+#"k" is concidered as the time slots for the Mapper and Reducer Max value update
+k = {0, 40, 80, 120, 160, 200, 240}
+
+#delta k is the different in the time frames between two readings
+
+delta k = 40
+
+#u(k) considered as percentage of job completed by Mapper
+u(k) = {0, 8, 22, 42, 65, 87, 100}
+
+#p(k) considerd as Job Execution Rate from the values 
+
+p(k) = (u(k)/(delta k) )*100*60
+
+p(k) = {0, 1200, 3300, 6300, 9750, 13050, 15000}
+
+#Linear Function: p(k+1) = a*p(k) + b*u(k)
+
+p(k+1) = {0, 7600, 20900, 39900, 

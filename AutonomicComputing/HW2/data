@@ -1,0 +1,9 @@
+https://s3.amazonaws.com/uf-eel6935/data/bible.gz
+
+Creating workspace "master-node"... done.
+  - 149.165.148.164 [ vm-148-164.uc.futuregrid.org ]
+
+Creating group "slave-nodes"... done.
+  - 149.165.148.165 [ vm-148-165.uc.futuregrid.org ]
+  - 149.165.148.166 [ vm-148-166.uc.futuregrid.org ]
+

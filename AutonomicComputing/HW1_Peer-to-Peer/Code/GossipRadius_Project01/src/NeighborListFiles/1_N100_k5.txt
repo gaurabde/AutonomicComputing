@@ -1,0 +1,201 @@
+Details of Sum-Distance of each Node (Cycle: 15)
+============================
+ Node ID: 0	 Sum-Distance: 22.67578046431008
+
+ Node ID: 1	 Sum-Distance: 28.104074645659026
+
+ Node ID: 2	 Sum-Distance: 29.733436740397018
+
+ Node ID: 3	 Sum-Distance: 20.738441465836242
+
+ Node ID: 4	 Sum-Distance: 33.75413829415275
+
+ Node ID: 5	 Sum-Distance: 22.00831476858728
+
+ Node ID: 6	 Sum-Distance: 24.727527084040197
+
+ Node ID: 7	 Sum-Distance: 27.310093571617095
+
+ Node ID: 8	 Sum-Distance: 2.6673143668883132
+
+ Node ID: 9	 Sum-Distance: 14.996761120351115
+
+ Node ID: 10	 Sum-Distance: 21.56823326676516
+
+ Node ID: 11	 Sum-Distance: 32.63631685879405
+
+ Node ID: 12	 Sum-Distance: 40.7146330901558
+
+ Node ID: 13	 Sum-Distance: 34.328368234725076
+
+ Node ID: 14	 Sum-Distance: 0.0
+
+ Node ID: 15	 Sum-Distance: 28.836743621303853
+
+ Node ID: 16	 Sum-Distance: 34.05731329642698
+
+ Node ID: 17	 Sum-Distance: 20.17291116321204
+
+ Node ID: 18	 Sum-Distance: 18.801815012770952
+
+ Node ID: 19	 Sum-Distance: 34.14948527795479
+
+ Node ID: 20	 Sum-Distance: 45.703802978441864
+
+ Node ID: 21	 Sum-Distance: 28.09129357676482
+
+ Node ID: 22	 Sum-Distance: 22.814132530188147
+
+ Node ID: 23	 Sum-Distance: 11.70838212444982
+
+ Node ID: 24	 Sum-Distance: 20.154439739210478
+
+ Node ID: 25	 Sum-Distance: 33.01229363906487
+
+ Node ID: 26	 Sum-Distance: 33.036251552605144
+
+ Node ID: 27	 Sum-Distance: 20.58913788878185
+
+ Node ID: 28	 Sum-Distance: 16.216109573832473
+
+ Node ID: 29	 Sum-Distance: 15.56840642207776
+
+ Node ID: 30	 Sum-Distance: 21.30346947504694
+
+ Node ID: 31	 Sum-Distance: 13.01055866951291
+
+ Node ID: 32	 Sum-Distance: 16.646005420183403
+
+ Node ID: 33	 Sum-Distance: 10.31395939358547
+
+ Node ID: 34	 Sum-Distance: 22.590628334681924
+
+ Node ID: 35	 Sum-Distance: 8.798482886622656
+
+ Node ID: 36	 Sum-Distance: 28.995270581726537
+
+ Node ID: 37	 Sum-Distance: 24.037803598332413
+
+ Node ID: 38	 Sum-Distance: 37.21783888504527
+
+ Node ID: 39	 Sum-Distance: 38.14363646876491
+
+ Node ID: 40	 Sum-Distance: 9.771994049964142
+
+ Node ID: 41	 Sum-Distance: 36.41327918362287
+
+ Node ID: 42	 Sum-Distance: 31.18948090280326
+
+ Node ID: 43	 Sum-Distance: 27.649903944464512
+
+ Node ID: 44	 Sum-Distance: 15.497249685591068
+
+ Node ID: 45	 Sum-Distance: 24.20655197362872
+
+ Node ID: 46	 Sum-Distance: 16.763775159606578
+
+ Node ID: 47	 Sum-Distance: 11.192027226684342
+
+ Node ID: 48	 Sum-Distance: 2.976666329065795
+
+ Node ID: 49	 Sum-Distance: 28.704835019113467
+
+ Node ID: 50	 Sum-Distance: 25.689969225191653
+
+ Node ID: 51	 Sum-Distance: 13.769650554605136
+
+ Node ID: 52	 Sum-Distance: 5.088443293581735
+
+ Node ID: 53	 Sum-Distance: 21.99133376208026
+
+ Node ID: 54	 Sum-Distance: 29.760031654319064
+
+ Node ID: 55	 Sum-Distance: 0.0
+
+ Node ID: 56	 Sum-Distance: 10.65324245170864
+
+ Node ID: 57	 Sum-Distance: 29.118825752282135
+
+ Node ID: 58	 Sum-Distance: 19.650472124063498
+
+ Node ID: 59	 Sum-Distance: 17.958741112111845
+
+ Node ID: 60	 Sum-Distance: 20.50095090190835
+
+ Node ID: 61	 Sum-Distance: 5.891447579422673
+
+ Node ID: 62	 Sum-Distance: 26.007274581913183
+
+ Node ID: 63	 Sum-Distance: 0.0
+
+ Node ID: 64	 Sum-Distance: 22.285698896050825
+
+ Node ID: 65	 Sum-Distance: 21.662005241051034
+
+ Node ID: 66	 Sum-Distance: 26.394847736524092
+
+ Node ID: 67	 Sum-Distance: 8.600410876181503
+
+ Node ID: 68	 Sum-Distance: 14.115536115217548
+
+ Node ID: 69	 Sum-Distance: 18.773739891097396
+
+ Node ID: 70	 Sum-Distance: 14.789101086269113
+
+ Node ID: 71	 Sum-Distance: 16.223293107286548
+
+ Node ID: 72	 Sum-Distance: 26.779498323669372
+
+ Node ID: 73	 Sum-Distance: 5.9519914258825075
+
+ Node ID: 74	 Sum-Distance: 21.99598301851637
+
+ Node ID: 75	 Sum-Distance: 32.80122243959448
+
+ Node ID: 76	 Sum-Distance: 8.779640629990782
+
+ Node ID: 77	 Sum-Distance: 34.14455177194276
+
+ Node ID: 78	 Sum-Distance: 7.870535118301012
+
+ Node ID: 79	 Sum-Distance: 16.247296549331242
+
+ Node ID: 80	 Sum-Distance: 24.794669738407862
+
+ Node ID: 81	 Sum-Distance: 29.620203131226802
+
+ Node ID: 82	 Sum-Distance: 12.805576147101837
+
+ Node ID: 83	 Sum-Distance: 20.27336045457257
+
+ Node ID: 84	 Sum-Distance: 21.732928564739332
+
+ Node ID: 85	 Sum-Distance: 15.756925972472574
+
+ Node ID: 86	 Sum-Distance: 9.43358510451326
+
+ Node ID: 87	 Sum-Distance: 16.616741750264648
+
+ Node ID: 88	 Sum-Distance: 29.96644374118091
+
+ Node ID: 89	 Sum-Distance: 17.361014681625427
+
+ Node ID: 90	 Sum-Distance: 18.064565578170026
+
+ Node ID: 91	 Sum-Distance: 13.723160707722265
+
+ Node ID: 92	 Sum-Distance: 13.87303572354379
+
+ Node ID: 93	 Sum-Distance: 39.40333647551353
+
+ Node ID: 94	 Sum-Distance: 17.75561175424788
+
+ Node ID: 95	 Sum-Distance: 30.022299966149486
+
+ Node ID: 96	 Sum-Distance: 18.78445329868503
+
+ Node ID: 97	 Sum-Distance: 26.78454734304408
+
+ Node ID: 98	 Sum-Distance: 33.97279377822544
+
+ Node ID: 99	 Sum-Distance: 14.45967697048832

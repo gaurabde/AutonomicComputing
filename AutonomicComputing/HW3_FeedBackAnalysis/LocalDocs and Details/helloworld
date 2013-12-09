@@ -1,0 +1,24 @@
+#!/bin/bash
+
+declare -i countold
+countold=0
+declare -i count
+count=1
+
+bash testscript &
+
+echo "helloworld"
+
+while [ $count -lt 11 ]; do       
+    search="<maxMaps>$countold</maxMaps>"
+    replace="<maxMaps>$count</maxMaps>"
+    grep $search fair-scheduler.xml 
+
+    sed -i "5s|.*|$replace|g" fair-scheduler.xml
+    countold=$count
+    count=$count+1
+    echo $count
+    sleep 50s           
+done
+
+echo "Hello World!"
